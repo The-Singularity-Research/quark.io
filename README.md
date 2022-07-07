@@ -26,7 +26,7 @@ Here are some references for John Horton Conway's Game of Life on a hexagonal or
 
 Turning this into a game where players are allowed to define their own rules for how colors interact with one another allows for an exponentially large game space. Perhaps for example, we could define color windows (intervals in the electromagnetic spectrum) labelled R, G, and B. Defining a cyclic relationship R-->G-->B-->R we have a way of determining what colors can interact with other colors and in what way. Perhaps R is allowed to red-shift green by some fixed or dynamic amount, Green is allowed to red-shift blue, and blue is allowed to blue shift red if we define cutoffs between the infrared and ultraviolet ends of the visible spectrum and treat this as a circle of colors rather than as a linear spectrum. This could be used to define a generalization of something similar to Go or snake with the objective of encapsulating segments of other players' snakes, red or blue shifting the segment to more desirable colors, and then moving to another snake to do the same. The game could be co-op or competative depending on the player defined rules. 
 
-Many other rule-sets for games using this triangulated, multi-color hexagon mesh on arbitrary Riemann surfaces can be defined. 
+Many other rule-sets for games using this triangulated, multi-color hexagon mesh on arbitrary Riemann surfaces can be defined. Such a game would have applications in visual data representation, quantum information processing, gaming and recreational puzzles, and studying elementary particles such as quarks and gluons. Using guage group equivariant neural networks would allow for a modernized version of alphaGo, and even alphaFold. 
 
 
 
