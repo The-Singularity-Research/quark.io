@@ -9,4 +9,24 @@ To each nuclear particle we associate harmonic oscillator in a parabolic potenti
 *In the continuum limit (for higher dimensional qudits) this becomes an infinite covering of the circle. A restriction to discretized Planck time may be prudent in which case the partition of the circle would either be finite if the radius is such that the planck length angle divides the circumference evenly, or it would become an irrational rotation algebra otherwise.*
 
 
+##Hexagon and Triangulated Hexagon Game of Life
+---
+
+Here are some references for John Horton Conway's Game of Life on a hexagonal or triangulated hexagonal mesh. Allowing for arbitrary embeddings of triangulated hexagonal meshes into Riemann surfaces shows how we can run Conway's Game of Life on a quantum computer with quarks and gluons as qubits and qutrits if we allow for multi-color cells. Conway's game of life is Turing complete (and of course so is a quantum computer built on qubits and qutrits), so any model of computation can be emulated in this way (quantum or not), and this is in fact one Turing complete classical program running on a Turing complete quantum computer. 
+
+1. [Triangulated Hexagon Mesh Game of Life](https://www.youtube.com/watch?v=VOQrDh6AvYQ&t=230s)
+
+2. [Triangulated Hexagon Mesh Game of Life 2](https://www.youtube.com/watch?v=Y0CCGwl3Sw4)
+
+3. [Multi-spectrum/color Game of Life on Hexagons](https://www.youtube.com/watch?v=eDPmUpboQNA), [see here](http://davidsiaw.github.io/hexlife/), see also [Here](https://davidsiaw.github.io/blog/2014/11/21/hexlife/) and [Here](https://davidsiaw.github.io/blog/2014/11/22/hexlife-part-2/)
+
+4. [Hexagonal Game of Life](https://arunarjunakani.github.io/HexagonalGameOfLife/)
+
+5. [Game of Life on a Torus](https://www.youtube.com/watch?v=lxIeaotWIks)
+
+Turning this into a game where players are allowed to define their own rules for how colors interact with one another allows for an exponentially large game space. Perhaps for example, we could define color windows (intervals in the electromagnetic spectrum) labelled R, G, and B. Defining a cyclic relationship R-->G-->B-->R we have a way of determining what colors can interact with other colors and in what way. Perhaps R is allowed to red-shift green by some fixed or dynamic amount, Green is allowed to red-shift blue, and blue is allowed to blue shift red if we define cutoffs between the infrared and ultraviolet ends of the visible spectrum and treat this as a circle of colors rather than as a linear spectrum. 
+
+Many other rule-sets for games using this triangulated, multi-color hexagon mesh on arbitrary Riemann surfaces can be defined. 
+
+
 
