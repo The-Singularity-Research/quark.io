@@ -29,4 +29,4 @@ Turning this into a game where players are allowed to define their own rules for
 Many other rule-sets for games using this triangulated, multi-color hexagon mesh on arbitrary Riemann surfaces can be defined. Such a game would have applications in visual data representation, quantum information processing, gaming and recreational puzzles, and studying elementary particles such as quarks and gluons. Using guage group equivariant neural networks would allow for a modernized version of alphaGo, and even alphaFold and alphaStar if the data is represented properly in the multi-colored mesh (think of RGB as a 3 dimensional "feature" vector bundle on a Riemann surface, extendable to more colors than just three of course). 
 
 
-
+[EquivNNs](https://www.youtube.com/watch?v=z2OEyUgSH2c&list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd)
